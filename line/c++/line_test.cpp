@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	Mat src, gray, edge;
-	src = imread("C:/Users/19749/Desktop/Hough-Transform/line/images/01.jpg");
+	src = imread("images/01.jpg");
 	cvtColor(src, gray, COLOR_BGR2GRAY);
 	Canny(gray, edge, 50, 200, 3);
 

@@ -96,7 +96,7 @@ vector<Vec2f> myHoughLine(const Mat& img, double rho, double theta, int threshol
 
 int main() {
 	Mat src, gray, edge;
-	src = imread("C:/Users/19749/Desktop/Hough-Transform/line/images/01.jpg");
+	src = imread("images/01.jpg");
 	imshow("src", src);
 
 	cvtColor(src, gray, COLOR_BGR2GRAY);
