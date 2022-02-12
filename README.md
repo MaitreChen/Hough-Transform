@@ -1,6 +1,7 @@
 # Hough-Transform
 
 ## Mentioned
+* Pay attention to the image path！
 
 * This repository includes line-detection and circle-detection of houghtransform.
 
