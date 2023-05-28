@@ -23,6 +23,11 @@ However,in this method of **HoughGradient**, the algorithm is not generalized, b
 
 ### HoughLine
 
+<div align="center">
+  <a href="" target="_blank">
+  <img width="50%" src="https://user-images.githubusercontent.com/76271045/153716928-cb306400-ef80-4c80-a91f-cd9299361899.png"></a>
+</div>
+
 ![image-20220212230745476](https://user-images.githubusercontent.com/76271045/153716928-cb306400-ef80-4c80-a91f-cd9299361899.png)
 
 ![image-20220212230755330](https://user-images.githubusercontent.com/76271045/153716945-ce310e47-6106-4a35-ae34-4a88e5469e80.png)
