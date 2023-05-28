@@ -1,10 +1,6 @@
 ## 📣Introduction
 This repository includes **line-detection** & **circle-detection** of hough-transform.
 
-Each detection includes **Python** and **C++** versions.
-
-----
-
 In **Hough-CircleDetection**, there are two methods:
 
 * Analog **line-detection**, and three accumulators are established;
